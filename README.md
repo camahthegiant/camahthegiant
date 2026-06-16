@@ -12,6 +12,7 @@ Graduado en Ingeniería Informática (Itinerario Ingeniería de Computadores) po
 ## Proyectos destacados
 
 - **[tomasulo-simulator](https://github.com/camahthegiant/tomasulo-simulator)** — simulador preciso a nivel de ciclo del algoritmo de Tomasulo en C, con estaciones de reserva, forwarding por CDB y bancos de registros enteros/flotantes separados (EI1061, UJI).
+- **[smartlock](https://github.com/camahthegiant/smartlock)** — app Android para una cerradura inteligente: apertura por Bluetooth Low Energy, dashboard de temperatura/humedad por MQTT y registro de accesos RFID vía API REST (proyecto personal; firmware ESP32 pendiente de publicar).
 - **[clubesportiu](https://github.com/camahthegiant/clubesportiu)** — sistema de gestión de carreras en Java/Spring Boot + Thymeleaf con PostgreSQL, con roles, autenticación BCrypt y cronometraje (EI1027, UJI, proyecto en grupo).
 - **[xaes](https://github.com/camahthegiant/xaes)** — herramienta CLI en Python para cifrado AES-128-CBC compatible con OpenSSL, con derivación de clave PBKDF2-HMAC-SHA256 (Seguridad Informática, UJI).
 - **LORA-COCOON** — Trabajo de Final de Grado: arquitectura IoT híbrida que combina una red mallada LoRa P2P con LoRaWAN para agricultura de precisión, desarrollado en prácticas de I+D en Ambimetrics S.L. (código no publicable por confidencialidad de la empresa).
@@ -37,6 +38,7 @@ Computer Engineering graduate (Computer Architecture track) from Universitat Jau
 ## Featured projects
 
 - **[tomasulo-simulator](https://github.com/camahthegiant/tomasulo-simulator)** — cycle-accurate implementation of the Tomasulo algorithm in C, with reservation stations, CDB forwarding and separate integer/floating-point register banks (EI1061, UJI).
+- **[smartlock](https://github.com/camahthegiant/smartlock)** — Android app for a smart lock: Bluetooth Low Energy open/close, MQTT temperature/humidity dashboard, and RFID access logging via a REST API (personal project; ESP32 firmware to be published separately).
 - **[clubesportiu](https://github.com/camahthegiant/clubesportiu)** — race management system in Java/Spring Boot + Thymeleaf with PostgreSQL, with role-based access, BCrypt authentication and timing (EI1027, UJI, group project).
 - **[xaes](https://github.com/camahthegiant/xaes)** — Python CLI tool for OpenSSL-compatible AES-128-CBC encryption, with PBKDF2-HMAC-SHA256 key derivation (Information Security, UJI).
 - **LORA-COCOON** — Bachelor's thesis: hybrid IoT architecture combining a LoRa P2P mesh with LoRaWAN for precision agriculture, built during an R&D internship at Ambimetrics S.L. (code not publishable due to company confidentiality).
