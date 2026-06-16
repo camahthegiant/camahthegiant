@@ -1,6 +1,6 @@
 # Pablo Camahort Torres
 
-Estudiante de Ingeniería Informática (Itinerario Ingeniería de Computadores) en la Universitat Jaume I. Interesado en IoT, sistemas empotrados y protocolos de comunicación de bajo consumo (LoRa/LoRaWAN).
+Graduado en Ingeniería Informática (Itinerario Ingeniería de Computadores) por la Universitat Jaume I. Interesado en IoT, sistemas empotrados y protocolos de comunicación de bajo consumo (LoRa/LoRaWAN).
 
 ## Stack
 
@@ -23,7 +23,7 @@ Estudiante de Ingeniería Informática (Itinerario Ingeniería de Computadores) 
 
 # Pablo Camahort Torres
 
-Computer Engineering student (Computer Architecture track) at Universitat Jaume I. Interested in IoT, embedded systems, and low-power communication protocols (LoRa/LoRaWAN).
+Computer Engineering graduate (Computer Architecture track) from Universitat Jaume I. Interested in IoT, embedded systems, and low-power communication protocols (LoRa/LoRaWAN).
 
 ## Stack
 
