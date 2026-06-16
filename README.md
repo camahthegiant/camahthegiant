@@ -4,7 +4,7 @@ Graduado en Ingeniería Informática (Itinerario Ingeniería de Computadores) po
 
 ## Stack
 
-- C / C++17, Java
+- C / C++, Java
 - Linux, POSIX, FreeRTOS
 - LoRa / LoRaWAN, MQTT
 - Docker, SQLite, Git, CMake
@@ -28,7 +28,7 @@ Computer Engineering graduate (Computer Architecture track) from Universitat Jau
 
 ## Stack
 
-- C / C++17, Java
+- C / C++, Java
 - Linux, POSIX, FreeRTOS
 - LoRa / LoRaWAN, MQTT
 - Docker, SQLite, Git, CMake
