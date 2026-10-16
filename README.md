@@ -2,7 +2,7 @@
 
 Graduado en Ingeniería Informática (Itinerario Ingeniería de Computadores) por la Universitat Jaume I. Estoy orientando mi carrera hacia DevOps: despliegue automatizado, contenedores y monitorización. Vengo del IoT y los sistemas empotrados, y eso sigue en mis proyectos.
 
-Busco mi primer puesto de DevOps (Castellón, Valencia o remoto).
+Busco mi primer puesto de DevOps o Infraestructura y Soporte IT.
 
 ## Stack
 
